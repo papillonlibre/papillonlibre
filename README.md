@@ -29,5 +29,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working as a NVIDIA TME Intern and also as the Tufts CubeSAT Project and Software Lead
+- 🔭 I’m currently the Tufts CubeSAT Project and Software Lead!
 - 💬 I’m currently learning DL, ML, Satellite Engineering, and more!
