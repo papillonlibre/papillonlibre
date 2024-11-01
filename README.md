@@ -1,6 +1,6 @@
 # Hi there, I'm Vanessa 👋
 <!--[![Vanessa's GitHub stats](https://github-readme-stats-five-kappa-40.vercel.app/api?username=papillonlibre&show_icons=true&theme=radical&layout=compact)]-->
-[![Top Langs](https://github-readme-stats-five-kappa-40.vercel.app/api/top-langs/?username=papillonlibre&layout=compact)](https://github.com/papillonlibre/github-readme-stats)
+[![Top Langs](https://vercel.com/api/toolbar/link/github-readme-stats-five-kappa-40.vercel.app?via=deployment-domains-list&p=1&page=/)](https://github.com/papillonlibre/github-readme-stats)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
